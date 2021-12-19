@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: #FFAA00;
+    
+    
+}
+header {
+background-image: linear-gradient(#FFBF40 , #BF8F30 ,#03406A)
+}
+.link-header:hover {
+    background-color: #BF8F30;
+    border-radius: 15%;
+    color: #FFBF40;
+}
+p {
+    background-image: linear-gradient(#03406A , #BF8F30	);
+}
